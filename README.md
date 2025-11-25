@@ -3,7 +3,7 @@
 
 I’m a Computer Science graduate skilled in Python, Django, frontend web development, and currently learning Data Analysis. I enjoy building practical, user-friendly web applications using Django and exploring data visually using Pandas, Matplotlib, and Seaborn.
 
-Actively seeking opportunities in *Python Development, **Django Development, or **Data Analyst (Entry-Level)* roles.
+Actively seeking opportunities in *Python Development*, roles.
 
 ---
 
