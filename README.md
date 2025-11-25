@@ -115,7 +115,7 @@ CGPA: 7.69
 
 ## 🌐 Contact
 
-- *GitHub:* https://github.com/ASHRITHA318  
+- *GitHub:* https://github.com/ASHRITHA319  
 - *LinkedIn:* https://www.linkedin.com/in/ashrithab3019  
 - *Email:* ashritha319@gmail.com
 
