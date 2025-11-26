@@ -1,7 +1,7 @@
 
 # 👩🏻‍💻 Ashritha BK – Python Developer | Web Developer
 
-I’m a Computer Science graduate skilled in Python, Django, frontend web development, and currently learning Data Analysis. I enjoy building practical, user-friendly web applications using Django and exploring data visually using Pandas, Matplotlib, and Seaborn.
+I’m a Computer Science graduate skilled in Python, Django, frontend web development, and currently learning Data Analysis. I enjoy building practical, user-friendly web applications using Django and exploring data visually using Pandas.
 
 Actively seeking opportunities in *Python Development*, roles.
 
@@ -21,10 +21,7 @@ Actively seeking opportunities in *Python Development*, roles.
 
 ### *Data Analysis & Visualization*
 - Pandas  
-- NumPy  
-- Matplotlib  
-- Seaborn (ongoing)  
-- Data cleaning & exploratory data visualization
+- NumPy   
 
 ### *Databases*
 - MySQL  
