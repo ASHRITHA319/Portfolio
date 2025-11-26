@@ -32,7 +32,7 @@ Actively seeking opportunities in *Python Development*, roles.
 - VS Code  
 - Git & GitHub  
 - GitHub Desktop  
-- Jupyter Notebook  
+- google colab  
 - Arduino IDE (for academic hardware project)
 
 ---
@@ -88,7 +88,7 @@ A prototype designed to log vehicles activity and send alerts during abnormal ev
   - Pandas  
   - NumPy  
   - Matplotlib  
-  - Seaborn (currently learning)
+  - Seaborn 
 
 ---
 
